@@ -1,0 +1,62 @@
+,match_type,date,home,away,score,points
+0,Friendlies Clubs 2017,21/07/2017,N,Manchester United,0:2 (0:2),0
+1,Friendlies Clubs 2017,27/07/2017,N,Real Madrid,4:1 (0:0),3
+2,Friendlies Clubs 2017,29/07/2017,N,Tottenham Hotspur,3:0 (1:0),3
+3,Friendlies Clubs 2017,04/08/2017,N,West Ham United,3:0 (1:0),3
+4,Friendlies Clubs 2017,15/08/2017,A,Girona FC,0:1 (0:1),0
+5,Champions League 2017/2018,13/09/2017,A,Feyenoord,4:0 (3:0),3
+6,Champions League 2017/2018,26/09/2017,H,Shakhtar Donetsk,2:0 (0:0),3
+7,Champions League 2017/2018,17/10/2017,H,SSC Napoli,2:1 (2:0),3
+8,Champions League 2017/2018,01/11/2017,A,SSC Napoli,4:2 (1:1),3
+9,Champions League 2017/2018,21/11/2017,H,Feyenoord,1:0 (0:0),3
+10,Champions League 2017/2018,06/12/2017,A,Shakhtar Donetsk,1:2 (0:2),0
+11,Champions League 2017/2018,13/02/2018,A,FC Basel,4:0 (3:0),3
+12,Champions League 2017/2018,07/03/2018,H,FC Basel,1:2 (1:1),0
+13,Champions League 2017/2018,04/04/2018,A,Liverpool FC,0:3 (0:3),0
+14,Champions League 2017/2018,10/04/2018,H,Liverpool FC,1:2 (1:0),0
+15,Premier League 2017/2018,12/08/2017,A,Brighton & Hove Albion,2:0 (0:0),3
+16,Premier League 2017/2018,21/08/2017,H,Everton FC,1:1 (0:1),1
+17,Premier League 2017/2018,26/08/2017,A,AFC Bournemouth,2:1 (1:1),3
+18,Premier League 2017/2018,09/09/2017,H,Liverpool FC,5:0 (2:0),3
+19,Premier League 2017/2018,16/09/2017,A,Watford FC,6:0 (3:0),3
+20,Premier League 2017/2018,23/09/2017,H,Crystal Palace,5:0 (1:0),3
+21,Premier League 2017/2018,30/09/2017,A,Chelsea FC,1:0 (0:0),3
+22,Premier League 2017/2018,14/10/2017,H,Stoke City,7:2 (3:1),3
+23,Premier League 2017/2018,21/10/2017,H,Burnley FC,3:0 (1:0),3
+24,Premier League 2017/2018,28/10/2017,A,West Bromwich Albion,3:2 (2:1),3
+25,Premier League 2017/2018,05/11/2017,H,Arsenal FC,3:1 (1:0),3
+26,Premier League 2017/2018,18/11/2017,A,Leicester City,2:0 (1:0),3
+27,Premier League 2017/2018,26/11/2017,A,Huddersfield Town,2:1 (0:1),3
+28,Premier League 2017/2018,29/11/2017,H,Southampton FC,2:1 (0:0),3
+29,Premier League 2017/2018,03/12/2017,H,West Ham United,2:1 (0:1),3
+30,Premier League 2017/2018,10/12/2017,A,Manchester United,2:1 (1:1),3
+31,Premier League 2017/2018,13/12/2017,A,Swansea City,4:0 (2:0),3
+32,Premier League 2017/2018,16/12/2017,H,Tottenham Hotspur,4:1 (1:0),3
+33,Premier League 2017/2018,23/12/2017,H,AFC Bournemouth,4:0 (1:0),3
+34,Premier League 2017/2018,27/12/2017,A,Newcastle United,1:0 (1:0),3
+35,Premier League 2017/2018,31/12/2017,A,Crystal Palace,0:0 (0:0),1
+36,Premier League 2017/2018,02/01/2018,H,Watford FC,3:1 (2:0),3
+37,Premier League 2017/2018,14/01/2018,A,Liverpool FC,3:4 (1:1),0
+38,Premier League 2017/2018,20/01/2018,H,Newcastle United,3:1 (1:0),3
+39,Premier League 2017/2018,31/01/2018,H,West Bromwich Albion,3:0 (1:0),3
+40,Premier League 2017/2018,03/02/2018,A,Burnley FC,1:1 (1:0),1
+41,Premier League 2017/2018,10/02/2018,H,Leicester City,5:1 (1:1),3
+42,Premier League 2017/2018,01/03/2018,A,Arsenal FC,3:0 (3:0),3
+43,Premier League 2017/2018,04/03/2018,H,Chelsea FC,1:0 (0:0),3
+44,Premier League 2017/2018,12/03/2018,A,Stoke City,2:0 (1:0),3
+45,Premier League 2017/2018,31/03/2018,A,Everton FC,3:1 (3:0),3
+46,Premier League 2017/2018,07/04/2018,H,Manchester United,2:3 (2:0),0
+47,Premier League 2017/2018,14/04/2018,A,Tottenham Hotspur,3:1 (2:1),3
+48,Premier League 2017/2018,22/04/2018,H,Swansea City,5:0 (2:0),3
+49,Premier League 2017/2018,29/04/2018,A,West Ham United,4:1 (2:1),3
+50,Premier League 2017/2018,06/05/2018,H,Huddersfield Town,0:0 (0:0),1
+51,Premier League 2017/2018,09/05/2018,H,Brighton & Hove Albion,3:1 (2:1),3
+52,FA Cup 2017/2018,06/01/2018,H,Burnley FC,4:1 (0:1),3
+53,FA Cup 2017/2018,28/01/2018,A,Cardiff City,2:0 (2:0),3
+54,FA Cup 2017/2018,19/02/2018,A,Wigan Athletic,0:1 (0:0),0
+55,League Cup 2017/2018,20/09/2017,A,West Bromwich Albion,2:1 (1:0),3
+56,League Cup 2017/2018,24/10/2017,H,Wolverhampton Wanderers,"4:1 (0:0, 0:0, 0:0) pso",3
+57,League Cup 2017/2018,19/12/2017,A,Leicester City,"4:3 (1:0, 1:1, 1:1) pso",3
+58,League Cup 2017/2018,09/01/2018,H,Bristol City,2:1 (0:1),3
+59,League Cup 2017/2018,23/01/2018,A,Bristol City,3:2 (1:0),3
+60,League Cup 2017/2018,25/02/2018,N,Arsenal FC,3:0 (1:0),3

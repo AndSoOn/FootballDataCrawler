@@ -1,0 +1,60 @@
+,match_type,date,home,away,score,points
+0,Champions League 2003/2004,16/09/2003,A,Sparta Praha,1:0 (0:0),3
+1,Champions League 2003/2004,01/10/2003,H,Beşiktaş,0:2 (0:2),0
+2,Champions League 2003/2004,22/10/2003,H,Lazio Roma,2:1 (0:1),3
+3,Champions League 2003/2004,04/11/2003,A,Lazio Roma,4:0 (1:0),3
+4,Champions League 2003/2004,26/11/2003,H,Sparta Praha,0:0 (0:0),1
+5,Champions League 2003/2004,09/12/2003,A,Beşiktaş,2:0 (0:0),3
+6,Champions League 2003/2004,25/02/2004,A,VfB Stuttgart,1:0 (1:0),3
+7,Champions League 2003/2004,09/03/2004,H,VfB Stuttgart,0:0 (0:0),1
+8,Champions League 2003/2004,24/03/2004,H,Arsenal FC,1:1 (0:0),1
+9,Champions League 2003/2004,06/04/2004,A,Arsenal FC,2:1 (0:1),3
+10,Champions League 2003/2004,20/04/2004,A,AS Monaco,1:3 (1:1),0
+11,Champions League 2003/2004,05/05/2004,H,AS Monaco,2:2 (2:1),1
+12,Champions League Qual. 2003/2004,13/08/2003,A,MŠK Žilina,2:0 (1:0),3
+13,Champions League Qual. 2003/2004,26/08/2003,H,MŠK Žilina,3:0 (1:0),3
+14,Premier League 2003/2004,17/08/2003,A,Liverpool FC,2:1 (1:0),3
+15,Premier League 2003/2004,23/08/2003,H,Leicester City,2:1 (2:1),3
+16,Premier League 2003/2004,30/08/2003,H,Blackburn Rovers,2:2 (1:1),1
+17,Premier League 2003/2004,13/09/2003,H,Tottenham Hotspur,4:2 (2:1),3
+18,Premier League 2003/2004,20/09/2003,A,Wolverhampton Wanderers,5:0 (2:0),3
+19,Premier League 2003/2004,27/09/2003,H,Aston Villa,1:0 (1:0),3
+20,Premier League 2003/2004,05/10/2003,A,Middlesbrough FC,2:1 (1:1),3
+21,Premier League 2003/2004,14/10/2003,A,Birmingham City,0:0 (0:0),1
+22,Premier League 2003/2004,18/10/2003,A,Arsenal FC,1:2 (1:1),0
+23,Premier League 2003/2004,25/10/2003,H,Manchester City,1:0 (1:0),3
+24,Premier League 2003/2004,01/11/2003,A,Everton FC,1:0 (0:0),3
+25,Premier League 2003/2004,09/11/2003,H,Newcastle United,5:0 (3:0),3
+26,Premier League 2003/2004,22/11/2003,A,Southampton FC,1:0 (0:0),3
+27,Premier League 2003/2004,30/11/2003,H,Manchester United,1:0 (1:0),3
+28,Premier League 2003/2004,06/12/2003,A,Leeds United,1:1 (0:1),1
+29,Premier League 2003/2004,13/12/2003,H,Bolton Wanderers,1:2 (1:1),0
+30,Premier League 2003/2004,20/12/2003,A,Fulham FC,1:0 (0:0),3
+31,Premier League 2003/2004,26/12/2003,A,Charlton Athletic,2:4 (1:2),0
+32,Premier League 2003/2004,28/12/2003,H,Portsmouth FC,3:0 (0:0),3
+33,Premier League 2003/2004,07/01/2004,H,Liverpool FC,0:1 (0:1),0
+34,Premier League 2003/2004,11/01/2004,A,Leicester City,4:0 (2:0),3
+35,Premier League 2003/2004,18/01/2004,H,Birmingham City,0:0 (0:0),1
+36,Premier League 2003/2004,01/02/2004,A,Blackburn Rovers,3:2 (2:1),3
+37,Premier League 2003/2004,08/02/2004,H,Charlton Athletic,1:0 (1:0),3
+38,Premier League 2003/2004,11/02/2004,A,Portsmouth FC,2:0 (1:0),3
+39,Premier League 2003/2004,21/02/2004,H,Arsenal FC,1:2 (1:2),0
+40,Premier League 2003/2004,28/02/2004,A,Manchester City,1:0 (0:0),3
+41,Premier League 2003/2004,13/03/2004,A,Bolton Wanderers,2:0 (0:0),3
+42,Premier League 2003/2004,20/03/2004,H,Fulham FC,2:1 (2:1),3
+43,Premier League 2003/2004,27/03/2004,H,Wolverhampton Wanderers,5:2 (1:1),3
+44,Premier League 2003/2004,03/04/2004,A,Tottenham Hotspur,1:0 (1:0),3
+45,Premier League 2003/2004,10/04/2004,H,Middlesbrough FC,0:0 (0:0),1
+46,Premier League 2003/2004,12/04/2004,A,Aston Villa,2:3 (1:1),0
+47,Premier League 2003/2004,17/04/2004,H,Everton FC,0:0 (0:0),1
+48,Premier League 2003/2004,25/04/2004,A,Newcastle United,1:2 (1:1),0
+49,Premier League 2003/2004,01/05/2004,H,Southampton FC,4:0 (0:0),3
+50,Premier League 2003/2004,08/05/2004,A,Manchester United,1:1 (1:0),1
+51,Premier League 2003/2004,15/05/2004,H,Leeds United,1:0 (1:0),3
+52,FA Cup 2003/2004,02/01/2004,A,Watford FC,2:2 (2:2),1
+53,FA Cup 2003/2004,13/01/2004,H,Watford FC,4:0 (2:0),3
+54,FA Cup 2003/2004,24/01/2004,A,Scarborough FC,1:0 (1:0),3
+55,FA Cup 2003/2004,15/02/2004,A,Arsenal FC,1:2 (1:0),0
+56,League Cup 2003/2004,29/10/2003,H,Notts County,4:2 (2:1),3
+57,League Cup 2003/2004,03/12/2003,A,Reading FC,1:0 (0:0),3
+58,League Cup 2003/2004,17/12/2003,A,Aston Villa,1:2 (0:1),0

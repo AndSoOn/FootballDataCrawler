@@ -1,0 +1,58 @@
+,match_type,date,home,away,score,points
+0,Champions League 2013/2014,17/09/2013,A,Viktoria Plzeň,3:0 (0:0),3
+1,Champions League 2013/2014,02/10/2013,H,Bayern München,1:3 (0:1),0
+2,Champions League 2013/2014,23/10/2013,A,CSKA Moskva,2:1 (2:1),3
+3,Champions League 2013/2014,05/11/2013,H,CSKA Moskva,5:2 (3:1),3
+4,Champions League 2013/2014,27/11/2013,H,Viktoria Plzeň,4:2 (1:1),3
+5,Champions League 2013/2014,10/12/2013,A,Bayern München,3:2 (1:2),3
+6,Champions League 2013/2014,18/02/2014,H,FC Barcelona,0:2 (0:0),0
+7,Champions League 2013/2014,12/03/2014,A,FC Barcelona,1:2 (0:0),0
+8,Premier League 2013/2014,19/08/2013,H,Newcastle United,4:0 (2:0),3
+9,Premier League 2013/2014,25/08/2013,A,Cardiff City,2:3 (0:0),0
+10,Premier League 2013/2014,31/08/2013,H,Hull City,2:0 (0:0),3
+11,Premier League 2013/2014,14/09/2013,A,Stoke City,0:0 (0:0),1
+12,Premier League 2013/2014,22/09/2013,H,Manchester United,4:1 (2:0),3
+13,Premier League 2013/2014,28/09/2013,A,Aston Villa,2:3 (1:0),0
+14,Premier League 2013/2014,05/10/2013,H,Everton FC,3:1 (2:1),3
+15,Premier League 2013/2014,19/10/2013,A,West Ham United,3:1 (1:0),3
+16,Premier League 2013/2014,27/10/2013,A,Chelsea FC,1:2 (0:1),0
+17,Premier League 2013/2014,02/11/2013,H,Norwich City,7:0 (4:0),3
+18,Premier League 2013/2014,10/11/2013,A,Sunderland AFC,0:1 (0:1),0
+19,Premier League 2013/2014,24/11/2013,H,Tottenham Hotspur,6:0 (3:0),3
+20,Premier League 2013/2014,01/12/2013,H,Swansea City,3:0 (1:0),3
+21,Premier League 2013/2014,04/12/2013,A,West Bromwich Albion,3:2 (2:0),3
+22,Premier League 2013/2014,07/12/2013,A,Southampton FC,1:1 (1:1),1
+23,Premier League 2013/2014,14/12/2013,H,Arsenal FC,6:3 (2:1),3
+24,Premier League 2013/2014,21/12/2013,A,Fulham FC,4:2 (2:0),3
+25,Premier League 2013/2014,26/12/2013,H,Liverpool FC,2:1 (2:1),3
+26,Premier League 2013/2014,28/12/2013,H,Crystal Palace,1:0 (0:0),3
+27,Premier League 2013/2014,01/01/2014,A,Swansea City,3:2 (1:1),3
+28,Premier League 2013/2014,12/01/2014,A,Newcastle United,2:0 (1:0),3
+29,Premier League 2013/2014,18/01/2014,H,Cardiff City,4:2 (2:1),3
+30,Premier League 2013/2014,29/01/2014,A,Tottenham Hotspur,5:1 (1:0),3
+31,Premier League 2013/2014,03/02/2014,H,Chelsea FC,0:1 (0:1),0
+32,Premier League 2013/2014,08/02/2014,A,Norwich City,0:0 (0:0),1
+33,Premier League 2013/2014,22/02/2014,H,Stoke City,1:0 (0:0),3
+34,Premier League 2013/2014,15/03/2014,A,Hull City,2:0 (1:0),3
+35,Premier League 2013/2014,22/03/2014,H,Fulham FC,5:0 (1:0),3
+36,Premier League 2013/2014,25/03/2014,A,Manchester United,3:0 (1:0),3
+37,Premier League 2013/2014,29/03/2014,A,Arsenal FC,1:1 (1:0),1
+38,Premier League 2013/2014,05/04/2014,H,Southampton FC,4:1 (3:1),3
+39,Premier League 2013/2014,13/04/2014,A,Liverpool FC,2:3 (0:1),0
+40,Premier League 2013/2014,16/04/2014,H,Sunderland AFC,2:2 (1:0),1
+41,Premier League 2013/2014,21/04/2014,H,West Bromwich Albion,3:1 (3:1),3
+42,Premier League 2013/2014,27/04/2014,A,Crystal Palace,2:0 (2:0),3
+43,Premier League 2013/2014,03/05/2014,A,Everton FC,3:2 (2:1),3
+44,Premier League 2013/2014,07/05/2014,H,Aston Villa,4:0 (0:0),3
+45,Premier League 2013/2014,11/05/2014,H,West Ham United,2:0 (1:0),3
+46,FA Cup 2013/2014,04/01/2014,A,Blackburn Rovers,1:1 (1:0),1
+47,FA Cup 2013/2014,15/01/2014,H,Blackburn Rovers,5:0 (1:0),3
+48,FA Cup 2013/2014,25/01/2014,H,Watford FC,4:2 (0:2),3
+49,FA Cup 2013/2014,15/02/2014,H,Chelsea FC,2:0 (1:0),3
+50,FA Cup 2013/2014,09/03/2014,H,Wigan Athletic,1:2 (0:1),0
+51,League Cup 2013/2014,24/09/2013,H,Wigan Athletic,5:0 (1:0),3
+52,League Cup 2013/2014,30/10/2013,A,Newcastle United,"2:0 (0:0, 0:0) aet",3
+53,League Cup 2013/2014,17/12/2013,A,Leicester City,3:1 (2:0),3
+54,League Cup 2013/2014,08/01/2014,H,West Ham United,6:0 (3:0),3
+55,League Cup 2013/2014,21/01/2014,A,West Ham United,3:0 (2:0),3
+56,League Cup 2013/2014,02/03/2014,H,Sunderland AFC,3:1 (0:1),3
